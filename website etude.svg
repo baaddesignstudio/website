@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 498 498">
+  <rect width="498" height="498" fill="#000" stroke="#000" stroke-miterlimit="10" stroke-width="6"/>
+  <path d="M388.28,325.17c0,35.39-28.7,64.09-64.09,64.09h-64.09v-128.18s64.09,0,64.09,0c35.39,0,64.09,28.7,64.09,64.09Z" fill="#fff" stroke-width="0"/>
+  <polygon points="240.76 389.32 108.68 389.32 174.72 257.24 240.76 389.32" fill="#fff" stroke-width="0"/>
+  <path d="M236.94,204.9c0,17.69-14.34,32.07-32.07,32.07h-96.18V108.68h96.18c17.73,0,32.07,14.34,32.07,32.07s-14.34,32.07-32.07,32.07c17.73,0,32.07,14.34,32.07,32.07Z" fill="#fff" stroke-width="0"/>
+  <polygon points="389.32 236.98 257.24 236.98 323.28 104.9 389.32 236.98" fill="#fff" stroke-width="0"/>
+</svg>

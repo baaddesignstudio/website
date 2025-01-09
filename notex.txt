@@ -1,0 +1,4 @@
+- about page:
+1. create the text box 
+- define a textbox class for it
+not to be linked to the list layout
